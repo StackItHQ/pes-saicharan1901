@@ -235,6 +235,7 @@ The system is designed to handle various scenarios:
 
 2. **Start Producer and Consumer**:
    - Run the producer to detect changes and the consumer to synchronize data between Google Sheets and MySQL.
+   - Open the RabbitMQ folder and run the following the get them started.
 
      ```bash
      python3 producer.py
