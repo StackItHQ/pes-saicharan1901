@@ -247,6 +247,10 @@ The system is designed to handle various scenarios:
 ## Demo Video
 
 For a visual demonstration of how the system works, watch the [Video Solution](/assets/solution.mp4).
+<video width="600" controls>
+  <source src="/assets/solution.mp4" type="video/mp4">
+</video>
+
 
 ## Architecture Diagram
 
