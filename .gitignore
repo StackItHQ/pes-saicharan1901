@@ -1,0 +1,8 @@
+/.env
+/credentials.json
+/token.pickle
+/kafka
+/mysql
+/rabbitmq/frontend
+/python
+/testing
