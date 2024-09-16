@@ -150,7 +150,7 @@ def start_consumer():
 
     channel.basic_consume(queue='conflict_queue', on_message_callback=callback, auto_ack=True)
     channel.start_consuming()
-
+```
 
 ## Synchronization Process
 
